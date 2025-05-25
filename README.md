@@ -10,5 +10,5 @@
 1. input telegram API key into ``.env`` file
 2. run main.py
 3. that's it.
-   . go to your bot's chat and send ``/hi`` for a message that is replied to your command
-   . send ``/hello`` for a message in response to your command
+    - go to your bot's chat and send ``/hi`` for a message that is replied to your command
+    - send ``/hello`` for a message in response to your command
