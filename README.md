@@ -1,5 +1,5 @@
 # telegram-bot-template
-- a generic telegram bot template
+- a generic telegram bot template written in python
 - includes auto installation of mods
 - 3 types of messages
     - replying to a message after a command
